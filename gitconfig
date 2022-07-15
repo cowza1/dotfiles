@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = couser1304@gmail.com
+	name = adam couser
